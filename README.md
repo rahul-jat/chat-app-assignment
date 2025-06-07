@@ -20,7 +20,7 @@ This app requires a WebSocket server running on port 9000 that handles:
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/rahul-jat/chat-app-assignment.git
 cd chat-assignment
 ```
 
